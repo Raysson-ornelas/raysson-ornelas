@@ -2,7 +2,7 @@
 
 <h3 align="center">A Software Engineer at <a href="https://github.com/podcodar/">PodCodar</a> and fond of new deviations.</h3>
 
-- 🔭 I’m currently working on *Fácil Sistemas*
+- 🔭 I’m currently working on *ProfitMax*
 
 - 🌱 I’m currently learning *Next.js*, *Chakara UI* and *React.js*
 
