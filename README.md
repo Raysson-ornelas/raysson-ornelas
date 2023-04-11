@@ -2,11 +2,11 @@
 
 <h3 align="center">A Software Engineer at <a href="https://github.com/podcodar/">PodCodar</a> and fond of new deviations.</h3>
 
-- 🔭 I’m currently working on *ProfitMax*
+- 🔭 I’m currently working on *Kasco*
 
-- 🌱 I’m currently learning *Next.js*, *Chakara UI* and *React.js*
+- 🌱 I’m currently learning *React Native* and *Typescript*
 
-- 💬 Ask me about Android, Front End Developer
+- 💬 Ask me about React Native, Mobile Developer
 
 - 📫 How to reach me: rayssonornelas2006@gmail.com
 
